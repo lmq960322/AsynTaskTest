@@ -1,0 +1,10 @@
+
+<resources>
+
+    <string name="app_name">AsyncTaskTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="down">开始下载</string>
+    <string name="title_activity_down_task">DownTask</string>
+    <string name="hello_world">下载完成</string>
+
+</resources>
